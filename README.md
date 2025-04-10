@@ -26,15 +26,6 @@ Sou desenvolvedor **Back-End** com foco em soluções eficientes, escaláveis e 
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Ornelas&show_icons=true&theme=default" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ornelas&layout=compact&langs_count=7&theme=default"/>
-</div>
-
----
-
 ### 🌐 Contato profissional
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ornelas-56302b27b/)
